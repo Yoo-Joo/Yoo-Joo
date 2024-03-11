@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Youssef Ermili</h1>
-<h3 align="center">A passionate Data enthusiast from Morocco</h3>
 
 - 🔭 With a keen eye for detail and a love of problem-solving, I'm always excited to tackle new data challenges and explore innovative solutions.
 
